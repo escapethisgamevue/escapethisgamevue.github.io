@@ -32,7 +32,7 @@ function clickButton() {
 
 .svg1:hover .path5 {
     transform: translateX(90px);
-    color: rgb(255, 166, 2);
+    fill: rgb(255, 166, 2);
 }
 
 
