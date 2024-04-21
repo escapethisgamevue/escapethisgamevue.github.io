@@ -3,5 +3,5 @@ import ButtonCartonRight from './components/button/buttonCartonRight.vue';
 </script>
 
 <template>
-  <ButtonCartonRight />
+  <ButtonCartonRight class="m-3" />
 </template>
